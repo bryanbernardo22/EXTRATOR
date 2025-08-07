@@ -1,0 +1,1 @@
+cons botaoMostraPalavras = document.querySelector();co
